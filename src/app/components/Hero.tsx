@@ -45,9 +45,9 @@ export function Hero() {
               style={{ fontFamily: 'var(--font-mono)' }}
             >
               <span className="text-muted-foreground">{'<'}</span>
-              <GlitchText>SYSTEM_</GlitchText>
+              <GlitchText>Vedh</GlitchText>
               <br />
-              <GlitchText>ARCHITECT</GlitchText>
+              <GlitchText>Chengappa</GlitchText>
               <span className="text-muted-foreground">{' />'}</span>
             </h1>
             <div className="flex items-center gap-2">
